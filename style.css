@@ -1,0 +1,13 @@
+.principal-container {
+    margin-top: 200px;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    width: 100%;
+}
+
+body {
+    background-image: url("https://img.freepik.com/vetores-gratis/fundo-de-dia-dos-namorados-com-coracoes-rosa_1308-37924.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
